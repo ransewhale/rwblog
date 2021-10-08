@@ -14,7 +14,7 @@ permalinks:
   posts: /posts/:title/
 
 googleAnalytics: your-google-analytics-id
-disqusShortname: rwblog
+disqusShortname: rw-blog
 
 # Hugo Configure Markup
 # More info: https://gohugo.io/getting-started/configuration-markup#
