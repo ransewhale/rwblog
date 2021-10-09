@@ -13,7 +13,7 @@ hasCJKLanguage: true
 permalinks:
   posts: /posts/:title/
 
-googleAnalytics: your-google-analytics-id
+googleAnalytics: G-43WT80G205
 disqusShortname: rw-blog
 
 # Hugo Configure Markup
