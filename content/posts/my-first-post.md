@@ -1,5 +1,6 @@
 ---
 title: "My First Post"
+slug: "my-first-post"
 date: 2021-10-04T22:55:30+09:00
 draft: false
 tags: ["テスト投稿"]

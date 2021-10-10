@@ -11,7 +11,7 @@ defaultContentLanguage: ja
 
 hasCJKLanguage: true
 permalinks:
-  posts: /posts/:title/
+  posts: /posts/:slug/
 
 googleAnalytics: G-43WT80G205
 disqusShortname: rw-blog

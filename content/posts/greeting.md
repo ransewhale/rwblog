@@ -1,5 +1,6 @@
 ---
 title: "ブログをはじめました"
+slug: "my-second-post"
 date: 2021-10-09T04:42:06+09:00
 draft: false
 tags: ["お知らせ"]
