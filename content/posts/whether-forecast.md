@@ -2,6 +2,7 @@
 title: "半年に渡って見ず知らずの土地の天気予報をあてにしていた話"
 slug: "Whether-forecast"
 date: 2021-11-10T09:07:19+09:00
+tags: ["Discord","Zapier","天気","笑い話"]
 draft: false
 ---
 おはようございます。ransewhaleです。今日は天気予報について話したいと思います。
